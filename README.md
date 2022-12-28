@@ -13,9 +13,13 @@
 
 Welcome to my Github, my name is Dulce. I am a Full Stack Web Developer, and I like to find solutions to problems. I would like to expand my knowledge in JavaScript, and I am excited for learn new technologies!
 
+* I'm currently working on [Life's a Pawty](https://life-is-a-pawty.dulceherrera.com)
+* I lived in Mexico :taco:, but now I reside in US :hamburger:. 
+* :woman_scientist: Chemical Engineering :arrow_right: Web Development :desktop_computer:
+* :mailbox_with_mail: How to reach me: dulceherrera11@gmail.com
 ---
 
-### How to reach me :
+### Connect with me:
   <div id="badges">
     <a href="https://linkedin.com/in/dulce-herrera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dulce-herrera" height="30" width="40" /></a>
 </div>
