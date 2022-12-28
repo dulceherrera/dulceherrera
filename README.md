@@ -1,13 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
-    <a href="www.linkedin.com/in/dulce-herrera">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="dulceherrera11@gmail.com">
-       <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
-</div>
+
 <h1>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -19,6 +12,13 @@
 ### :woman_technologist: About Me :
 
 Welcome to my Github, my name is Dulce. I am a Full Stack Web Developer, and I like to find solutions to problems. I would like to expand my knowledge in JavaScript, and I am excited for learn new technologies!
+
+---
+
+### How to reach me :
+  <div id="badges">
+    <a href="https://linkedin.com/in/dulce-herrera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dulce-herrera" height="30" width="40" /></a>
+</div>
 
 ---
 
